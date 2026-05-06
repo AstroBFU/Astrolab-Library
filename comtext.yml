@@ -9,3 +9,4 @@ pages:
 books:
   - content/book01.md
   - content/book02.md
+  - content/book03.md
