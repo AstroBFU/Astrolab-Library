@@ -1,5 +1,5 @@
 vuepress:
-  title: "Пример сайта"
+  title: "Библиотека лаборатории астрофизики БФУ им. И. Канта"
   base: "/Astrolab-Library/"
   revisionmeProjectId: ""
 
@@ -7,6 +7,4 @@ pages:
   - index.md
 
 books:
-  - content/book01.md
-  - content/book02.md
-  - content/book03.md
+  - content
