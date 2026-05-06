@@ -1,0 +1,1 @@
+import{_ as t,c as e,a as n,o as a}from"./app-BrzdV5hZ.js";const r={};function c(l,o){return a(),e("div",null,[...o[0]||(o[0]=[n("p",null,"Описание книги.",-1)])])}const i=t(r,[["render",c]]),m=JSON.parse('{"path":"/Kononovich.html","title":"","lang":"ru-RU","frontmatter":{},"git":{},"filePathRelative":"Kononovich.md"}');export{i as comp,m as data};
