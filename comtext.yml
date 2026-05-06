@@ -1,6 +1,6 @@
 vuepress:
   title: "Пример сайта"
-  base: "/test-site/"
+  base: "/Astrolab-Library/"
   revisionmeProjectId: ""
 
 pages:
